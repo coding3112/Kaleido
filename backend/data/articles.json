@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Benefits of solar energy",
+    "source": "Sample Source A",
+    "url": "https://example.com/solar-benefits",
+    "text": "Solar energy is renewable and can reduce reliance on fossil fuels. Its benefits depend on local conditions and installation costs.",
+    "perspective": "supportive"
+  },
+  {
+    "id": 2,
+    "title": "Challenges of solar energy",
+    "source": "Sample Source B",
+    "url": "https://example.com/solar-challenges",
+    "text": "Solar energy has challenges including intermittent generation, storage costs, land requirements, and panel manufacturing impacts.",
+    "perspective": "critical"
+  },
+  {
+    "id": 3,
+    "title": "Solar energy economics",
+    "source": "Sample Source C",
+    "url": "https://example.com/solar-economics",
+    "text": "Solar energy economics depend on installation costs, electricity prices, sunlight, incentives, and storage requirements.",
+    "perspective": "mixed"
+  }
+]
